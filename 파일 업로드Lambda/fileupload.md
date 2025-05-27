@@ -23,7 +23,7 @@
 - **파일명 형식:** `hello_YYYY-MM-DD_HH-MM-SS.txt`
 
 코드
-```
+```python
 import json
 import boto3 # AWS 서비스(S3 등)를 사용하기 위한 SDK
 from datetime import datetime
